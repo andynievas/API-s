@@ -1,2 +1,3 @@
 # API-s
 Este es un repositorio solo para recursos...
+En el cual se incluyen archivos json y otros.
